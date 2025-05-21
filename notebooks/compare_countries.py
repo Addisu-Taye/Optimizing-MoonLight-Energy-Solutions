@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from docx import Document
 from docx.shared import Inches
 import os
-
+#Addisu Taye 2025
 # 1. Load and combine data
 benin = pd.read_csv("data/raw/benin-malanville.csv", parse_dates=["Timestamp"])
 togo = pd.read_csv("data/raw/togo-dapaong_qc.csv", parse_dates=["Timestamp"])
