@@ -13,6 +13,7 @@ sns.set_theme(style="whitegrid")
 @st.cache_data
 def load_data():
     base_url = "https://raw.githubusercontent.com/Addisu-Taye/Optimizing-MoonLight-Energy-Solutions/main/data/cleaned/"
+   
     benin = pd.read_csv(base_url + "benin_cleaned.csv", parse_dates=["Timestamp"])
     togo = pd.read_csv(base_url + "togo_cleaned.csv", parse_dates=["Timestamp"])
     sierra = pd.read_csv(base_url + "sierraleone_cleaned.csv", parse_dates=["Timestamp"])
