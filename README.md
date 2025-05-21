@@ -56,7 +56,7 @@ MoonLight Energy Solutions aims to expand its renewable energy portfolio by depl
 ![Benin Trend](https://raw.githubusercontent.com/Addisu-Taye/Optimizing-MoonLight-Energy-Solutions/main/data/benin_ghi_trend.png)
 
 **Figure 4.2:** Correlation Heatmap  
-![Benin Correlation](https://raw.githubusercontent.com/Addisu-Taye/Optimizing-MoonLight-Energy-Solutions/main/data/benin_correlation.png)
+![Benin Correlation](https://raw.githubusercontent.com/Addisu-Taye/Optimizing-MoonLight-Energy-Solutions/main/data/benin_corr.png)
 
 ---
 
@@ -70,7 +70,7 @@ MoonLight Energy Solutions aims to expand its renewable energy portfolio by depl
 | RH (%)      | 79.87   |  
 
 **Figure 4.3:** GHI Histogram  
-![Sierra GHI Histogram](https://raw.githubusercontent.com/Addisu-Taye/Optimizing-MoonLight-Energy-Solutions/main/data/sierra_histogram.png)
+![Sierra GHI Histogram](https://raw.githubusercontent.com/Addisu-Taye/Optimizing-MoonLight-Energy-Solutions/main/data/sierra_leone_ghi_hist.png)
 
 ---
 
@@ -87,7 +87,7 @@ MoonLight Energy Solutions aims to expand its renewable energy portfolio by depl
 ## 5. Cross-Country Comparison  
 
 **Figure 5.1:** GHI Comparison Across Countries  
-![GHI Comparison](https://raw.githubusercontent.com/Addisu-Taye/Optimizing-MoonLight-Energy-Solutions/main/data/ghi_comparison_chart.png)
+![GHI Comparison](https://raw.githubusercontent.com/Addisu-Taye/Optimizing-MoonLight-Energy-Solutions/main/data/comparison_GHI.png)
 
 ### Key Insight:
 📈 **Benin’s GHI is ~30.8% higher** than Sierra Leone’s, making it a more viable site in terms of solar resource availability.
